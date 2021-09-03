@@ -1,6 +1,6 @@
 # Name: Harshit Raushan
 # Date: 20/05/2021
-# Topic: COVID-19 Tracker with code-steps
+# Topic: COVID-19 Tracker with code
 
 from tkinter import *
 # initializing tkinter
