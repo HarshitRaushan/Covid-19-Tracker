@@ -11,7 +11,7 @@ root.geometry("350x350")
 root.title("Get COVID-19 Data Country Wise \n ~ By Harshit Raushan ")
 
 
-# function which will get covid data and will show it....................
+# function which will get covid data and will show it...................
 def showdata():
     # importing matplotlib which will be used to show data graphically
     from matplotlib import pyplot as plt
